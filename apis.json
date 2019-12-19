@@ -1,0 +1,54 @@
+{
+    "name": "T2A",
+    "description": "Simunix pioneered the UK\u2019s first directory enquiries website - ukphonebook.com - and has been providing directory solutions to many of the UK\u2019s top organisations since 1999. Simunix was established in 1998 by Managing Director, John Lewis and became the first non-telecom company to license the UK\u2019s national directory database. In 1999, it became one of the first to set up a free online directory enquiries service - ukphonebook.com.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/932_logo.jpg",
+    "tags": [
+        "addresses",
+        "data validation",
+        "have api",
+        "roll"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/t2a\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "T2A API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/932_logo.jpg",
+            "humanURL": "http:\/\/t2a.co",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/t2a-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/t2a-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/t2a.co"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/simunix.com\/wordpress\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/simunix"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/t2adotco"
+        }
+    ]
+}
